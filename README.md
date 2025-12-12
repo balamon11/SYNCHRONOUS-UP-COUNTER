@@ -41,7 +41,7 @@ begin
 end 
 endmodule
 ~~~
-Developed by:BALAJI T RegisterNumber: 25011438
+Developed by:BALAJI T RegisterNumber: 25005672
 */
 
 **RTL LOGIC UP COUNTER**
